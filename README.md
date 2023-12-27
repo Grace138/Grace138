@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=Welcome%20to%20Grace's%20GitHub&fontSize=50" />
+
+
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace138&show_icons=true&theme=transparent) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=grace138138)](https://solved.ac/grace138138/)
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -26,5 +31,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
-
-<!-- ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace138&show_icons=true&theme=transparent) -->
